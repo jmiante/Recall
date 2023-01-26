@@ -15,3 +15,7 @@ Gravando Requirements ==> Bibliotecas
 
 Instalando Requirements
     pip install -r requirements.txt 
+
+
+Comando Pelo PIP INSTALL
+    pip install django pandas psycopg2
