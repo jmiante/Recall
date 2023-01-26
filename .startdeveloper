@@ -4,6 +4,9 @@ Criação Ambiente Virtual
 Ativação Ambiente Virtual
     venv\Scripts\Activate
 
+Atualizando PIP
+    python -m pip install --upgrade pip 
+
 Desativando
     deactivate
 
