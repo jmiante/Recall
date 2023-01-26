@@ -1,0 +1,14 @@
+Criação Ambiente Virtual
+    python -m venv venv 
+
+Ativação Ambiente Virtual
+    venv\Scripts\Activate
+
+Desativando
+    deactivate
+
+Gravando Requirements ==> Bibliotecas
+    pip freeze > requirements.txt
+
+Instalando Requirements
+    pip install -r requirements.txt 
