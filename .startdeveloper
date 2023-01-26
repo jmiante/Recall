@@ -19,3 +19,9 @@ Instalando Requirements
 
 Comando Pelo PIP INSTALL
     pip install django pandas psycopg2
+
+
+Iniciando Projeto, APP
+    django-admin startproject sistema .
+    django-admin startapp core 
+    django-admin startapp recall
